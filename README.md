@@ -27,12 +27,12 @@ Standardized tests have long been a controversial topic for students, administra
 
 ## The Problem Statement
 
-#### After browsing through the datasets given, we found out that SAT has lower participation rate than ACT
+After browsing through the datasets given, SAT has lower participation rate than ACT. My objective is to provide solutions to improve participation rate for SAT.
 
 
 ## Data Import
 
-### Imported datasets for SAT and ACT for the years 2017-2019
+Imported datasets for SAT and ACT for the years 2017-2019
 
 ## Exploratory Data Analysis
 
